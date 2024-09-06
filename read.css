@@ -1,0 +1,19 @@
+.align-left {
+  text-align: left;
+}
+
+.tech-icons img {
+  margin-right: 12px;
+}
+
+.stats img {
+  margin-right: 12px;
+}
+
+.social-media a {
+  margin-right: 12px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
